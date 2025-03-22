@@ -1,0 +1,1 @@
+Repository to be used as a reference for future data analysis projects. This was a practice project completed in order to learn the fundamentals of data analysis, though they do not reflect the full complexity of the subject.
